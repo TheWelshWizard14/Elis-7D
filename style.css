@@ -1,6 +1,6 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #013220; /* dark green */
+    background-color: #64d6ac; /* dark green */
 }
 
 /* Style for all paragraphs */
@@ -13,5 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid blue; /* Adds an blue border around the heading */
+    border: 2px solid rgb(155, 155, 221); /* Adds an blue border around the heading */
     padding: 10px; /* Adds space inside the border */
